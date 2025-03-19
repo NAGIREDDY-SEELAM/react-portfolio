@@ -1,7 +1,9 @@
 ## Features
 
 
-✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS)  
+✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS) 
+✅ View My portfolio : https://nagireddy-portfolio.netlify.app/  
+
 
 ## Quick Setup
 
