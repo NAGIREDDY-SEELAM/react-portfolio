@@ -4,6 +4,7 @@ import mock07 from '../assets/images/job.jpg';
 import mock08 from '../assets/images/farm.jpg';
 import mock09 from '../assets/images/voice.jpg';
 import home from '../assets/images/community.jpg';
+import house from '../assets/images/House-rental.jpg';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -20,6 +21,27 @@ function Project() {
 - Specifications include search for local jobs, discover nearby businesses, and stay informed with real-time weather updates and local news.<br></br>
 - Connect with friends, neighbors, and businesses through built-in chat and stay updated on community events.<br></br>
 Technologies Used:React and React Native as Frontend, Node.Js and Express.Js as Backend and Firebase and Mongo DB for data Storage.
+
+</p>
+            </div>
+                        <div className="project">
+                <a href="https://housing-rental.netlify.app/" target="_blank" rel="noreferrer"><img src={house} className="zoom" alt="thumbnail" width="100%"/></a>
+import home from '../assets/images/community.jpg';
+                <a href="https://housing-rental.netlify.app/" target="_blank" rel="noreferrer"><h2>Housing Rentals-React</h2></a><br></br>
+
+                <p>- Developed House Rental Application using React.js & Firebase<br></br>
+- Authentication: Secure login/signup with Email & Google<br></br>
+
+- User Profile: Store & update user info (email, phone, address)<br></br>
+
+- Property Listings: View and filter available houses for rent<br></br>
+
+- Add Properties: Users can add their own property and give for rent<br></br>
+
+- My Cart: Add properties to a personal cart And rent the house<br></br>
+
+
+- Technologies Used:React And CSS for Frontend, Node.Js and Express.Js as Backend and Firebase  for data Storage And Authentication .
 
 </p>
             </div>
