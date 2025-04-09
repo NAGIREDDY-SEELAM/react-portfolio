@@ -26,7 +26,7 @@ Technologies Used:React and React Native as Frontend, Node.Js and Express.Js as 
             </div>
                         <div className="project">
                 <a href="https://housing-rental.netlify.app/" target="_blank" rel="noreferrer"><img src={house} className="zoom" alt="thumbnail" width="100%"/></a>
-import home from '../assets/images/community.jpg';
+
                 <a href="https://housing-rental.netlify.app/" target="_blank" rel="noreferrer"><h2>Housing Rentals-React</h2></a><br></br>
 
                 <p>- Developed House Rental Application using React.js & Firebase<br></br>
